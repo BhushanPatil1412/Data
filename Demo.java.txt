@@ -1,4 +1,2 @@
 class Demo {
-
-
-}
+sysyo   java is easy languag thgageer lanahthn o
